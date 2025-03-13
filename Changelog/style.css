@@ -71,7 +71,7 @@ p {
   margin-left: 10%;
   border-left: 3px solid black;
   position: relative;
-  background: yellow;
+  /* background: yellow; */
 }
 .right1 {
   display: flex;
@@ -211,8 +211,10 @@ p {
 }
 .line {
   /* background: black; */
+  position: absolute;
   height: 200px;
   width: 100px;
-  margin-left: 50.3%;
   border-left: 3px solid black;
+  top: 90%;
+  left: -2px;
 }
