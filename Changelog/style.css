@@ -214,7 +214,7 @@ p {
   position: absolute;
   height: 200px;
   width: 100px;
-  border-left: 3px solid black;
+  border-left: 2.5px solid black;
   top: 90%;
-  left: -2px;
+  left: -3px;
 }
